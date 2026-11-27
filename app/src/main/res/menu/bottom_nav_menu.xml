@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_mobile_money"
+        android:icon="@drawable/ic_mobile_money"
+        android:title="MobileMoney" />
+    <item
+        android:id="@+id/nav_orange_money"
+        android:icon="@drawable/ic_orange_money"
+        android:title="OrangeMoney" />
+</menu>
